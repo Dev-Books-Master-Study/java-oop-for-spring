@@ -18,6 +18,10 @@ X장_제목_이름
 
 ex)
 07장_분산 시스템을 위한 유일 ID 설계_유건.md
+
+* 챕터를 나눈 경우
+07장_분산 시스템을 위한 유일 ID 설계_유건.md
+07장_분산 시스템을 위한 유일 ID 설계_이건.md
 ```
 
 <br>
@@ -40,6 +44,10 @@ ex)
 ## 🙋🏻 참여자
 
 - 총 명
+  - [곽소정](https://github.com/ssojungg)
+  - [김민지](https://github.com/alswl020208)
+  - [백한결](https://github.com/baekhangyeol)
+  - [정윤호](https://github.com/yunhobb)
   - [유건](https://github.com/youKeon)
 
 <br>
