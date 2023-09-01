@@ -54,6 +54,12 @@ ex)
 
 ## 🗂️ 발표 자료
 
-| 챕터  | 발표자 | 발표 자료 |
-|-----|-----|-------|
-| 01장 | [유건](https://github.com/youKeon) | [자료]()
+| 챕터  | 발표자                                                                       | 발표 자료 |
+|-----|---------------------------------------------------------------------------|-------|
+| 02장 | [김민지](https://github.com/alswl020208), [곽소정](https://github.com/ssojungg) | [자료]()
+| 03장 | [곽소정](https://github.com/ssojungg), [백한결](https://github.com/baekhangyeol)                                      | [자료]()
+| 04장 | [정윤호](https://github.com/yunhobb)                                          | [자료]()
+| 05장 | [백한결](https://github.com/baekhangyeol)                                          | [자료]()
+| 06장 | [정윤호](https://github.com/yunhobb)                                          | [자료]()
+| 07장 | [유건](https://github.com/youKeon)                                          | [자료]()
+| 0B장 | [김민지](https://github.com/alswl020208)                                          | [자료]()
