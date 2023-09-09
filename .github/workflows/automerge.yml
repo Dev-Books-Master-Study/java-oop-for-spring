@@ -1,8 +1,8 @@
 name: automerge
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * 6'
+  # schedule:
+  #   - cron: '0 0 * * 6'
 
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: automerge
-        uses: "pascalgn/automerge-action@v0.13.1"
+        uses: "pascalgn/automerge-action@v0.15.6"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: ""
