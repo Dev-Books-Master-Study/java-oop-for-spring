@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '49 7 * * 0'
 
+
 jobs:
   automerge:
     runs-on: ubuntu-latest
