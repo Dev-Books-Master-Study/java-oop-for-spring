@@ -1,15 +1,24 @@
 name: automerge
+
 on:
   schedule:
+<<<<<<< HEAD
     - cron: '10 8 * * 0'
+=======
+    - cron: '0 0 * * 0'
+>>>>>>> 4ff681850d8920b39ce5de162a9008f04cebff3e
 
 jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - name: automerge
-        uses: "pascalgn/automerge-action@v0.14.3"
+      - id: automerge
+        name: automerge
+        uses: "pascalgn/automerge-action@v0.15.6"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+<<<<<<< HEAD
           MERGE_LABELS: ""
           LOG: "TRACE"
+=======
+>>>>>>> 4ff681850d8920b39ce5de162a9008f04cebff3e
